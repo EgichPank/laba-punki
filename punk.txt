@@ -1,1 +1,22 @@
-punk!!!
+Кирилл@DESKTOP-FVMBSDP MINGW64 /c/GitRepo/ppp (master)
+$ cd /c/GitRepo/ppp/punk/
+
+Кирилл@DESKTOP-FVMBSDP MINGW64 /c/GitRepo/ppp/punk (main)
+$ git add punk.txt
+
+Кирилл@DESKTOP-FVMBSDP MINGW64 /c/GitRepo/ppp/punk (main)
+$ git commit -m "punk"
+[main 8ab1da4] punk
+ 1 file changed, 1 insertion(+)
+ create mode 100644 punk.txt
+
+Кирилл@DESKTOP-FVMBSDP MINGW64 /c/GitRepo/ppp/punk (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 316 bytes | 316.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/EgichPank/laba-punki.git
+
